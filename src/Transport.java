@@ -31,5 +31,6 @@ public abstract class Transport implements CheckInterface {
             updateTyre();
         }
     }
+
 }
 
