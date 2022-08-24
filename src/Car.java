@@ -10,6 +10,7 @@ public class Car extends MotorTransport {
 
     public void checkEngine() {
         System.out.println("Проверяем двигатель авто");
+
     }
 }
 

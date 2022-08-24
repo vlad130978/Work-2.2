@@ -4,6 +4,7 @@ public abstract class TruckTransport extends MotorTransport implements CheckInte
     }
 
 
+
     abstract public void checkTrailer();
 }
 
